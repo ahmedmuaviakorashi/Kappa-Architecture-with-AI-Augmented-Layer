@@ -38,6 +38,7 @@ Large-scale clustering and segmentation directly on SQL databases is computation
 ---
 
 ## 3.0 POC Workflow Deep Dive: Procedures and Justifications
+<img width="868" height="570" alt="image" src="https://github.com/user-attachments/assets/5af43054-8b02-442b-9ec3-510690570aa5" />
 
 ### 3.1 Data Ingestion & Event Log Creation
 - NYC taxi data partitioned into 100,000-row chunks and stored as Parquet files (`event_log` directory).  
